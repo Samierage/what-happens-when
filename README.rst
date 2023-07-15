@@ -1,4 +1,4 @@
-This is a detailed explanation if the in-depth processes that occur when the "g" key is pressed:
+This is a detailed explanation of the in-depth processes that occur when the "g" key is pressed:
 
 1. Key press initiation: When you physically press the "g" key on your keyboard, it creates a mechanical action that activates a switch underneath the keycap. This completes an electrical circuit.
 
